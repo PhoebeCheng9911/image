@@ -42,7 +42,7 @@ Maybe the lab have different preferences on the datasets? Special tasks for llms
 
 Models require extensive computing power. For example, for bloom 176b, 
 
-![image-20240305212320249](/Users/phoebe/Library/Application Support/typora-user-images/image-20240305212320249.png)
+![image-20240305212320249](https://raw.githubusercontent.com/PhoebeCheng9911/image/main/img/image-20240305212320249.png)
 
 Does the lab providing computing units? 
 
@@ -54,7 +54,7 @@ GCP or AWS
 
 - https://github.com/AmaduKamara/leaderboard-app 
 
-![image-20240305205939061](/Users/phoebe/Library/Application Support/typora-user-images/image-20240305205939061.png)
+![image-20240305205939061](https://raw.githubusercontent.com/PhoebeCheng9911/image/main/img/image-20240305205939061.png)
 
 ### Goal
 
