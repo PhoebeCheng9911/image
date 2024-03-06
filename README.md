@@ -1,2 +1,2 @@
 # image
-A Repository for image dumping. 
+A repository for image dumping. 
